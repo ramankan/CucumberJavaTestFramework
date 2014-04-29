@@ -13,7 +13,6 @@ Prerequisite:
 * JDK 1.7
 * Maven
 * IntelliJ Idea with cucumber for Java plugin
-
 * JDK & Maven path should be set
 
 Steps to run from IntelliJ:
